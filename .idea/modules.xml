@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-doormate/api-doormate.iml" filepath="$PROJECT_DIR$/api-doormate/api-doormate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doormate/doormate.iml" filepath="$PROJECT_DIR$/doormate/doormate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/doormate-multi-module-ver.iml" filepath="$PROJECT_DIR$/.idea/doormate-multi-module-ver.iml" />
+    </modules>
+  </component>
+</project>
